@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\galavićMarkoPetljeOcijene\galavićMarkoPetljeOcijene\bin\Debug\galavićMarkoPetljeOcijene.exe.config
+C:\Users\3.D\source\repos\galavićMarkoPetljeOcijene\galavićMarkoPetljeOcijene\bin\Debug\galavićMarkoPetljeOcijene.exe
+C:\Users\3.D\source\repos\galavićMarkoPetljeOcijene\galavićMarkoPetljeOcijene\bin\Debug\galavićMarkoPetljeOcijene.pdb
+C:\Users\3.D\source\repos\galavićMarkoPetljeOcijene\galavićMarkoPetljeOcijene\obj\Debug\galavićMarkoPetljeOcijene.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\galavićMarkoPetljeOcijene\galavićMarkoPetljeOcijene\obj\Debug\galavićMarkoPetljeOcijene.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\galavićMarkoPetljeOcijene\galavićMarkoPetljeOcijene\obj\Debug\galavićMarkoPetljeOcijene.exe
+C:\Users\3.D\source\repos\galavićMarkoPetljeOcijene\galavićMarkoPetljeOcijene\obj\Debug\galavićMarkoPetljeOcijene.pdb
